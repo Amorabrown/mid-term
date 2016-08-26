@@ -27,7 +27,7 @@ Create a function named `printDataType` that takes one parameter, `collection` a
 * [ ] If the collection is an array, loop through the array
     * [ ] if the value is an array console log "I am an array".
     * [ ] if the value is a function console log "I am a function".
-* [ ] Else console log "I do not know what you are! What are you?."
+* [ ] Else console log "r"
 
 ## isDivisibleBy
 

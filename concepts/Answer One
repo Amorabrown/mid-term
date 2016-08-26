@@ -1,0 +1,19 @@
+Answer One: One would use a for loop or a for - i when dealing with arrays, while using a for - in loop for objects.
+
+Answer Two: An anonymous function is a function with out a name. One would choose to use an anonymous function if the intention is to use the function once and once only. 
+
+Answer Three: IIFE stands for immediately invoked function expressioin. Its purpose is to execute immediately after it is create. 
+IIFE example: (function(** some code **){})();
+
+Answer Four: Tests are use to ensure that the code runs properly with any input a user chooses. 
+
+Answer Five: When one clones a repo, they have copied a code from an online repository to their local machine. 
+
+Answer Six: A higher order function is a function that takes another function as an arguement. A callback, also a higher order function, it is called within the higher order function. 
+
+
+
+
+
+
+

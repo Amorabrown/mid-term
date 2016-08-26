@@ -11,13 +11,13 @@
 ## Grading Outline
 
 
-Objects:
+Objects: Significant progress/ Attempted
 
-Functions:
+Functions: Significant progress 
 
-Higher Order Functions:
+Higher Order Functions: Not Attempted
 
-Concepts:
+Concepts: Complete
  
 
 
